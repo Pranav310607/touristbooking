@@ -7,5 +7,5 @@ Key Data Structures:
     struct details: Represents a node in the linked list with the following fields:
         first_name: Tourist’s first name.
         last_name: Tourist’s last name.
-        booking_date: Unique integer representing the date of booking (e.g., 5 for March 5).
+        booking_date: Unique integer representing the date of booking .
         next: Pointer to the next node.
